@@ -1,4 +1,4 @@
-# vim-tutor
+# vim-cheat
 This is a guide for Vim Editor.
 
 
